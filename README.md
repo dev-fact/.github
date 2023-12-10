@@ -40,10 +40,6 @@ Ready to transform your ideas into reality? Contact us today to discuss your pro
 - Website: [https://www.dev-factsoftware.com](https://www.dev-factsoftware.com)
 - Email: contact@dev-factsoftware.com
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue.svg)](https://www.linkedin.com/company/dev-fact-software)
